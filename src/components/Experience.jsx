@@ -10,7 +10,7 @@ function Experience() {
       description:
         "Building and maintaining responsive web interfaces for clients. Focused on clean UI, performance, and mobile-first design.",
       stack: ["React", "Tailwind CSS", "JavaScript"],
-      link: "",
+      link: "https://www.fiverr.com/s/2KbzdKL",
     },
     {
       period: "2024 — Present",
