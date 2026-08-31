@@ -106,7 +106,7 @@ function Hero() {
           <a
             target="_blank"
             rel="noreferrer"
-            href=""
+            href="https://www.linkedin.com/in/fatokunbo-isaac-a84894384/"
             className="hover:text-blue-400 transition-colors duration-200"
           >
             <FaLinkedin size={27} color="#e2e8f0" />
@@ -122,7 +122,7 @@ function Hero() {
           <a
             target="_blank"
             rel="noreferrer"
-            href=""
+            href="https://www.tiktok.com/@isaacdev1"
             className="hover:text-blue-400 transition-colors duration-200"
           >
             <FaTiktok size={27} color="#e2e8f0" />
