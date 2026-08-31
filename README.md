@@ -1,4 +1,4 @@
-A modern, responsive portfolio website showcasing my frontend development projects, technical skills, and journey as a software developer. Built with React and modern web technologies, this portfolio serves as my digital presence and a place where potential clients, recruiters, and collaborators can explore my work.
+A modern, responsive portfolio website showcasing my frontend development projects, technical skills, and journey as a software developer (Frontend developer). Built with React and modern web technologies, this portfolio serves as my digital presence and a place where potential clients, recruiters, and collaborators can explore my work.
 
 > **Live Demo:** https://isaacdev.me
 
